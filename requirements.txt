@@ -1,0 +1,7 @@
+├── heart_disease_notebook.ipynb
+├── app.py
+├── requirements.txt
+├── heart_gtigwd.csv
+├── heart_disease_model.pkl
+├── scaler.pkl
+└── README.md
