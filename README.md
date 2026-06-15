@@ -73,4 +73,4 @@ This tool is for educational purposes only and does not constitute medical advic
 ## Author
 **Dan Shina** — Senior Manager transitioning into AI & Data Science
 - GitHub: [shizadan](https://github.com/shizadan)
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: [(https://www.linkedin.com/in/dan-s-85a502ba/)]
